@@ -33,6 +33,7 @@
 ## comments テーブル
 
 | Column    | Type       | Options  |
+| --------- | ---------- | -------- |
 | text      | text       | NOT NULL |
 | user      | references |          |
 | prototype | references |          |
